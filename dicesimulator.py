@@ -28,5 +28,5 @@ while user_inp == 'yes' or user_inp == 'y':
         
     user_inp = input('do you want to play again(y/n):- ').lower()
 time.sleep(1)
-print('thank you for playing...😊😊')
+print('thank you for playing...')
 
